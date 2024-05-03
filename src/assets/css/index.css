@@ -10,10 +10,6 @@
     flex-direction: column
   }
 
-  #main {
-    @apply py-16 px-4 mx-auto max-w-[800px];
-  }
-
   li.active {
     @apply underline;
   }
