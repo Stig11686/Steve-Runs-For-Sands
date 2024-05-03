@@ -4,6 +4,9 @@ module.exports = {
     "./src/**/*.{njk,js,html,md,yml,yaml}",
   ],
   theme: {
+    fontFamily: {
+      sans: ['Barlow Condensed', 'sans-serif'],
+    },
     extend: {},
   },
   plugins: [],
